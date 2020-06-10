@@ -42,3 +42,7 @@
 	path = moodle/blocks/completion_progress
 	url = https://github.com/deraadt/moodle-block_completion_progress.git
 	branch = master
+[submodule "moodle/theme/adaptable"]
+	path = moodle/theme/adaptable
+	url = https://gitlab.com/jezhops/moodle-theme_adaptable.git
+	branch = master
