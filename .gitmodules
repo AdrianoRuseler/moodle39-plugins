@@ -34,3 +34,7 @@
 	path = moodle/mod/scheduler
 	url = https://github.com/bostelm/moodle-mod_scheduler.git
 	branch = master
+[submodule "moodle/question/type/oumultiresponse"]
+	path = moodle/question/type/oumultiresponse
+	url = https://github.com/moodleou/moodle-qtype_oumultiresponse.git
+	branch = master
