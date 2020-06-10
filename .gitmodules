@@ -54,3 +54,7 @@
 	path = moodle/mod/booking
 	url = https://github.com/dasistwas/moodle-mod_booking.git
 	branch = master
+[submodule "moodle/mod/studentquiz"]
+	path = moodle/mod/studentquiz
+	url = https://github.com/frankkoch/moodle-mod_studentquiz.git
+	branch = master
