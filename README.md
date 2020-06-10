@@ -51,11 +51,8 @@ $CFG->disableupdatenotifications = true;
 https://www.vogella.com/tutorials/GitSubmodules/article.html
 
 ## TODO
-- https://github.com/catalyst/moodle-tool_objectfs
-- https://github.com/catalyst/moodle-local_aws
 - https://docs.microsoft.com/pt-br/microsoftteams/install-moodle-integration
 - https://moodle.org/plugins/qtype_formulas
-- https://gitlab.com/moodlenet/moodle-core-plugins/mod_moodlenet
 - https://moodle.org/plugins/mod_turnitintooltwo
 - https://github.com/Syxton/moodle-tool_coursearchiver
 
