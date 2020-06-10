@@ -74,3 +74,7 @@
 	path = moodle/report/coursesize
 	url = https://github.com/catalyst/moodle-report_coursesize.git
 	branch = master
+[submodule "moodle/availability/condition/ipaddress"]
+	path = moodle/availability/condition/ipaddress
+	url = https://github.com/MFreakNL/moodle-availability_ipaddress.git
+	branch = master
