@@ -18,8 +18,8 @@ sudo ./Moodle39update.sh | tee Moodle39update.log
 ```
 
 ## Downloads
-- https://download.moodle.org/download.php/direct/stable38/moodle-latest-38.tgz
-- https://download.moodle.org/download.php/direct/stable38/moodle-latest-38.tgz.md5
+- https://download.moodle.org/download.php/direct/stable39/moodle-latest-39.tgz
+- https://download.moodle.org/download.php/direct/stable39/moodle-latest-39.tgz.md5
 
 ## Upgrade Submodules
 ```bash
