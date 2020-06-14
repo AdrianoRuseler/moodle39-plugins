@@ -170,14 +170,14 @@ git rm <path_to_submodule>
 git commit -m "Removed submodule "
 rm -rf .git/modules/<path_to_submodule>
 ```
-Not supported in 3.8+
+Not supported in 3.9
 
 - https://github.com/catalyst/moodle-tool_webanalytics
 
 ```bash
 git submodule add -b master https://github.com/catalyst/moodle-tool_webanalytics.git admin/tool/webanalytics
 ```
-
+Supported in 3.9
 - https://github.com/Microsoft/moodle-local_o365
 ```bash
 git submodule add -b master https://github.com/microsoft/moodle-local_o365.git local/o365
