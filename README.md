@@ -11,20 +11,11 @@ sudo ./DebianSystemConfig.sh | tee DebianSystemConfig.log
 
 ## Script for Moodle Update
 ```bash
-wget https://raw.githubusercontent.com/AdrianoRuseler/moodle-update-script/master/Moodle38update.sh -O Moodle38update.sh
-chmod u+x Moodle38update.sh
+wget https://raw.githubusercontent.com/AdrianoRuseler/moodle-update-script/master/Moodle39update.sh -O Moodle39update.sh
+chmod u+x Moodle39update.sh
 
-sudo ./Moodle38update.sh | tee Moodle38update.log
+sudo ./Moodle39update.sh | tee Moodle39update.log
 ```
-
-## Script for Moodle Test
-```bash
-wget https://raw.githubusercontent.com/AdrianoRuseler/moodle-update-script/master/mdltest.sh -O mdltest.sh
-chmod u+x mdltest.sh
-
-sudo ./mdltest.sh 
-```
-
 
 ## Downloads
 - https://download.moodle.org/download.php/direct/stable38/moodle-latest-38.tgz
