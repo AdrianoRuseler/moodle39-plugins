@@ -82,3 +82,7 @@
 	path = moodle/mod/checklist
 	url = https://github.com/davosmith/moodle-checklist.git
 	branch = master
+[submodule "moodle/course/format/buttons"]
+	path = moodle/course/format/buttons
+	url = https://github.com/brandaorodrigo/moodle-format_buttons.git
+	branch = master
