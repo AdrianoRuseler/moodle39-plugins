@@ -160,6 +160,11 @@ git submodule add -b master https://github.com/catalyst/moodle-report_coursesize
 ```bash
 git submodule add -b master https://github.com/davosmith/moodle-checklist.git mod/checklist
 ```
+- https://github.com/markn86/moodle-mod_customcert
+Use of subplugins.php has been deprecated. Please update your '/var/www/html/moodle38/mod/customcert' plugin to provide a subplugins.json file instead.
+```bash
+git submodule add -b MOODLE_38_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
+```
 
 - https://github.com/brandaorodrigo/moodle-format_buttons
 ```bash
@@ -176,11 +181,7 @@ git submodule add -b master https://github.com/mikasmart/moodle-report_benchmark
 
 
 ## Problems with version 3.9
-- https://github.com/markn86/moodle-mod_customcert
-Use of subplugins.php has been deprecated. Please update your '/var/www/html/moodle38/mod/customcert' plugin to provide a subplugins.json file instead.
-```bash
-git submodule add -b MOODLE_38_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
-```
+
 
 ## Remove
 ```bash
