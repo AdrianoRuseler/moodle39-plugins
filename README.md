@@ -178,7 +178,10 @@ git submodule add -b master https://github.com/cellule-tice/moodle-format_collap
 ```bash
 git submodule add -b master https://github.com/mikasmart/moodle-report_benchmark.git report/benchmark
 ```
-
+- https://github.com/moodlehq/moodle-tool_migratehvp2h5p
+```bash
+git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
+```
 
 ## Problems with version 3.9
 
