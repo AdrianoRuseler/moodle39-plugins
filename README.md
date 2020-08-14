@@ -42,6 +42,7 @@ $CFG->disableupdatenotifications = true;
 https://www.vogella.com/tutorials/GitSubmodules/article.html
 
 ## TODO
+- https://moodle.org/plugins/block_dedication
 - https://docs.microsoft.com/pt-br/microsoftteams/install-moodle-integration
 - https://moodle.org/plugins/qtype_formulas
 - https://moodle.org/plugins/mod_turnitintooltwo
