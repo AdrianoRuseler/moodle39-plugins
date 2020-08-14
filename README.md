@@ -183,6 +183,10 @@ git submodule add -b master https://github.com/mikasmart/moodle-report_benchmark
 ```bash
 git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
 ```
+- https://moodle.org/plugins/block_dedication
+```bash
+git submodule add -b MOODLE_30_STABLE https://bitbucket.org/ciceidev/moodle_block_dedication.git block/dedication
+```
 
 ## Problems with version 3.9
 
