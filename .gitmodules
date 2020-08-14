@@ -102,3 +102,7 @@
 	path = moodle/mod/attendance
 	url = https://github.com/danmarsden/moodle-mod_attendance.git
 	branch = main
+[submodule "moodle/blocks/dedication"]
+	path = moodle/blocks/dedication
+	url = https://bitbucket.org/ciceidev/moodle_block_dedication.git
+	branch = MOODLE_30_STABLE
