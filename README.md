@@ -42,11 +42,9 @@ $CFG->disableupdatenotifications = true;
 https://www.vogella.com/tutorials/GitSubmodules/article.html
 
 ## TODO
-- https://moodle.org/plugins/block_dedication
-- https://docs.microsoft.com/pt-br/microsoftteams/install-moodle-integration
+
 - https://moodle.org/plugins/qtype_formulas
 - https://moodle.org/plugins/mod_turnitintooltwo
-- https://github.com/Syxton/moodle-tool_coursearchiver
 
 ## Plugins List
 
@@ -186,6 +184,11 @@ git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h
 - https://moodle.org/plugins/block_dedication
 ```bash
 git submodule add -b MOODLE_30_STABLE https://bitbucket.org/ciceidev/moodle_block_dedication.git blocks/dedication
+```
+
+- https://github.com/mudrd8mz/moodle-mod_subcourse
+```bash
+git submodule add -b master https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
 ```
 
 ## Problems with version 3.9
