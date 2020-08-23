@@ -190,6 +190,10 @@ git submodule add -b MOODLE_30_STABLE https://bitbucket.org/ciceidev/moodle_bloc
 ```bash
 git submodule add -b master https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
 ```
+- https://github.com/jcrodriguez-dis/moodle-mod_vpl
+```bash
+git submodule add -b v3.3.8 https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
+```
 
 ## Problems with version 3.9
 
