@@ -195,6 +195,11 @@ git submodule add -b master https://github.com/mudrd8mz/moodle-mod_subcourse.git
 git submodule add -b v3.3.8 https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
 ```
 
+- https://github.com/academic-moodle-cooperation/moodle-mod_publication
+```bash
+git submodule add -b MOODLE_38_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
+```
+
 ## Problems with version 3.9
 
 
