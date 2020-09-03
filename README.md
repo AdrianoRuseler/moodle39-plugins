@@ -200,6 +200,12 @@ git submodule add -b v3.3.8 https://github.com/jcrodriguez-dis/moodle-mod_vpl.gi
 git submodule add -b MOODLE_38_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
 ```
 
+- https://moodle.org/plugins/atto_justify
+```bash
+git submodule add -b master https://github.com/moodle-ead/atto_justify.git lib/editor/atto/plugins/justify
+```
+
+
 ## Problems with version 3.9
 
 
