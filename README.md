@@ -215,7 +215,10 @@ git submodule add -b master https://github.com/gbateson/moodle-qtype_ordering.gi
 ```bash
 git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
 ```
-
+- https://github.com/jleyva/moodle-block_configurablereports
+```bash
+git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
+```
 
 ## Problems with version 3.9
 
