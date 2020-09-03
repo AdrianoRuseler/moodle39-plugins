@@ -206,6 +206,14 @@ git submodule add -b master https://github.com/moodle-ead/atto_justify.git lib/e
 ```
 
 
+- https://github.com/gbateson/moodle-qtype_ordering
+```bash
+git submodule add -b master https://github.com/gbateson/moodle-qtype_ordering.git question/type/ordering
+```
+
+
+
+
 ## Problems with version 3.9
 
 
