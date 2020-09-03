@@ -122,3 +122,7 @@
 	path = moodle/lib/editor/atto/plugins/justify
 	url = https://github.com/moodle-ead/atto_justify.git
 	branch = master
+[submodule "moodle/question/type/ordering"]
+	path = moodle/question/type/ordering
+	url = https://github.com/gbateson/moodle-qtype_ordering.git
+	branch = master
