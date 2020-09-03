@@ -211,7 +211,10 @@ git submodule add -b master https://github.com/moodle-ead/atto_justify.git lib/e
 git submodule add -b master https://github.com/gbateson/moodle-qtype_ordering.git question/type/ordering
 ```
 
-
+- https://github.com/moodleuulm/moodle-local_sandbox
+```bash
+git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
+```
 
 
 ## Problems with version 3.9
