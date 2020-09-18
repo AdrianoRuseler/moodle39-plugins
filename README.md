@@ -117,12 +117,6 @@ git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.gi
 git submodule add -b master https://github.com/ndunand/moodle-mod_choicegroup.git mod/choicegroup
 ```
 
-- https://github.com/dasistwas/moodle-mod_booking
-
-```bash
-git submodule add -b master https://github.com/dasistwas/moodle-mod_booking.git  mod/booking
-```
-
 - https://github.com/frankkoch/moodle-mod_studentquiz
 ```bash
 git submodule add -b master https://github.com/frankkoch/moodle-mod_studentquiz.git mod/studentquiz
@@ -238,6 +232,14 @@ Not supported in 3.9
 git submodule add -b master https://github.com/catalyst/moodle-tool_webanalytics.git admin/tool/webanalytics
 ```
 Supported in 3.9
+
+- https://github.com/dasistwas/moodle-mod_booking
+
+```bash
+git submodule add -b master https://github.com/dasistwas/moodle-mod_booking.git  mod/booking
+```
+
+
 - https://github.com/Microsoft/moodle-local_o365
 ```bash
 git submodule add -b master https://github.com/microsoft/moodle-local_o365.git local/o365
