@@ -213,6 +213,10 @@ git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.g
 ```bash
 git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
 ```
+- https://bitbucket.org/dw8/moodle-format_tiles
+```bash
+git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
+```
 
 ## Problems with version 3.9
 
