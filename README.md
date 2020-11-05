@@ -217,6 +217,10 @@ git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_con
 ```bash
 git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
 ```
+- https://github.com/moodleou/moodle-qtype_combined
+```bash
+git submodule add -b master https://github.com/moodleou/moodle-qtype_combined.git question/type/combined
+```
 
 ## Problems with version 3.9
 
