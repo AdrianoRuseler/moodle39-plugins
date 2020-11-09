@@ -43,8 +43,6 @@ https://www.vogella.com/tutorials/GitSubmodules/article.html
 
 ## TODO
 
-- https://moodle.org/plugins/qtype_formulas
-- https://moodle.org/plugins/mod_turnitintooltwo
 
 ## Plugins List
 
