@@ -88,12 +88,12 @@ git submodule add -b master https://github.com/FMCorz/moodle-block_xp.git blocks
 
 - https://github.com/bynare/moodle-enrol_auto
 ```bash
-git submodule add -b master https://github.com/bynare/moodle-enrol_auto.git enrol/auto
+git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/auto
 ```
 
 - https://github.com/moodleou/moodle-qtype_oumultiresponse
 ```bash
-git submodule add -b master https://github.com/moodleou/moodle-qtype_oumultiresponse.git question/type/oumultiresponse
+git submodule add -b main https://github.com/moodleou/moodle-qtype_oumultiresponse.git question/type/oumultiresponse
 ```
 
 - https://github.com/bostelm/moodle-mod_scheduler
@@ -216,7 +216,7 @@ git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git co
 ```
 - https://github.com/moodleou/moodle-qtype_combined
 ```bash
-git submodule add -b master https://github.com/moodleou/moodle-qtype_combined.git question/type/combined
+git submodule add -b main https://github.com/moodleou/moodle-qtype_combined.git question/type/combined
 ```
 
 ## Problems with version 3.9
