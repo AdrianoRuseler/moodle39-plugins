@@ -134,3 +134,7 @@
 	path = moodle/local/sandbox
 	url = https://github.com/moodleuulm/moodle-local_sandbox.git
 	branch = MOODLE_39_STABLE
+[submodule "moodle/enrol/auto"]
+	path = moodle/enrol/auto
+	url = https://github.com/bynare/moodle-enrol_auto.git
+	branch = main
